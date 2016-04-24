@@ -1,0 +1,5 @@
+sentry-github==0.1.2
+sentry-jira==0.10.0
+sentry-slack==0.5.0
+https://github.com/getsentry/sentry-auth-google/tarball/dc2c862#egg=sentry_auth_google-0.2.0.dev0
+https://github.com/getsentry/sentry-auth-github/tarball/2047d38#egg=sentry_auth_github-0.1.0
